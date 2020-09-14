@@ -1,0 +1,71 @@
+  body{
+    background-color:#67A8A2;
+  }
+  h1{
+    font-size: 300%;
+    text-align:center;
+    color:white;
+    text-shadow: 2px 2px 10px #048479;
+  }
+  p{
+    color:white;
+  }
+  a{
+    color:white;
+  }
+  p.sample{
+    color:white;
+    font-size:175%;
+	margin-top:50px;
+	margin-left:10px;
+  }
+  p.f{
+	margin-left:10px;
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  footer{
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color:#009688;
+    text-align:left;
+  }
+  button{
+	background-color:#009688;
+	border:none;
+	color:white;
+	padding: 15px 25px;
+	text-align:center;
+	text-decoration:none;
+	cursor:pointer;
+	-webkit-transition-duration:0.4s;
+	transition-duration:0.4s;
+  }
+  button:hover{
+	box-shadow:0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  label.sample2{
+	color:white;
+    font-size:175%;
+	margin-left:10px;
+  }
+  input.botao{
+	background-color:#009688;
+	border:none;
+	color:white;
+	padding: 15px 25px;
+	margin-top:50px;
+	text-align:center;
+	text-decoration:none;
+	cursor:pointer;
+	-webkit-transition-duration:0.4s;
+	transition-duration:0.4s;
+  }
+  input.botao:hover{
+	box-shadow:0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
